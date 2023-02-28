@@ -1,7 +1,7 @@
 # 🍭Bortakväll inlämningsuppgift Grupp 1
 
 En inlämningsuppgift för JavaScript Grundkurs.
-Vi skulle göra en online godisbutik där vi använder fetch från ett API, samt skickar in beställningar till APIt
+Vi gjorde en fiktiv online godisbutik från grunden mha HTML, CSS och Typescript där vi använder fetch från ett API, samt skickar in beställningar till APIt
 
 Länk till den publicerade hemsidan: https://bortakvall-gr1.netlify.app/
 
